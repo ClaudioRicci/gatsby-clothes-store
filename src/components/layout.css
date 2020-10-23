@@ -595,3 +595,22 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+/*NavLink Styles*/
+
+.active {
+  color: orange;
+}
+.navlink {
+  color: white;
+}
+
+.active,
+.navlink {
+  text-decoration: none;
+}
+
+.active:hover,
+.navlink:hover {
+  text-decoration: underline;
+}
