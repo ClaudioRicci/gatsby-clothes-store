@@ -5,8 +5,17 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+ Gatsby GraphQL Blog and Ecommerce Store
 </h1>
+<p>
+ <a href="https://gatsby-clothes-store.netlify.app/products/" target="_blank">Click here</a> to view this Gatsby GraphQL Project 
+ </p>
+ <ul>
+ <li>Built with Gatsby an GraphQL</li>
+ <li>using Contentful as a CMS to populate Store</li>
+ <li>Snipcart to add 'Cart' Functionality</li>
+ <li>Netlify for Multifctor Authentication and to Deploy site to Production</li>
+ </ul>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
